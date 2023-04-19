@@ -1,3 +1,6 @@
+#*******************push from git bash*******************
+
+
 #git init
 
 #git add . 
@@ -9,3 +12,22 @@
 #git remote add origin https://github.com/Czandy/test.git
 
 #git push -u origin main
+
+
+#**************************NOTE**************************
+
+#**************pull from git bash************************
+
+# mkdir home_git
+
+#cd home_git
+
+#mkdir homecode
+
+#cd homecode
+
+#git init
+
+#git remote add origin https://github.com/Czandy/test.git
+
+#git pull origin main
