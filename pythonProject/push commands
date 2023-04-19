@@ -1,0 +1,11 @@
+#git init
+
+#git add . 
+
+#git commit -m "note"
+
+#git branch -M main
+
+#git remote add origin https://github.com/Czandy/test.git
+
+#git push -u origin main
